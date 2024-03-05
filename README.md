@@ -1,6 +1,6 @@
 # Classification of Baybayin Handwritten Images using a Convolutional Neural Network
 
-This demonstrates how to implement the Convolutional Neural Networks (CNN) to recognize the Baybayin (a pre-colonial script used by Filipinos) handwritten symbols from images. Please note that the hyperparameters of this model are not optimized.
+This repo demonstrates how to implement the Convolutional Neural Networks (CNN) to recognize the Baybayin (a pre-colonial script used by Filipinos) handwritten symbols from images. Please note that the hyperparameters of this model are not optimized.
 
 
 ## Sample Results
